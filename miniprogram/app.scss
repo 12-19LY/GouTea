@@ -1,0 +1,17 @@
+/**app.wxss**/
+page{
+  background-color: rgb(255, 255, 255);
+
+  /**
+  项目主题颜色
+  **/
+  --primaryColor:#bae2b0; //主题色 var(--primaryColor)
+  --matchGreenColor:#55f12e;//浅绿色  var(--matchGreenColor)
+  --matchYellowColor:#fff6cb;//浅黄色 var(--matchYellowColor)
+
+  /*
+  项目阴影
+  */
+  --tabBoxShadow:4px 4px 8px rgb(240,240,240);//菜单阴影 var(--tabBoxShadow)
+}
+
